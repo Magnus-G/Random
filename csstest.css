@@ -1,3 +1,7 @@
+body {
+	background: red;
+}
+
 text {
 	color: blue !important;
 }
