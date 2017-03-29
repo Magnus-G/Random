@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'telenorlight';
+    src: url('telenorlight-webfont.eot');
+    src: url('telenorlight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('telenorlight-webfont.woff') format('woff'),
+         url('telenorlight-webfont.ttf') format('truetype'),
+         url('telenorlight-webfont.svg#telenorlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'telenorregular';
+    src: url('telenor-webfont.eot');
+    src: url('telenor-webfont.eot?#iefix') format('embedded-opentype'),
+         url('telenor-webfont.woff') format('woff'),
+         url('telenor-webfont.ttf') format('truetype'),
+         url('telenor-webfont.svg#telenorregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'togetherregular';
+    src: url('together-webfont.eot');
+    src: url('together-webfont.eot?#iefix') format('embedded-opentype'),
+         url('together-webfont.woff') format('woff'),
+         url('together-webfont.ttf') format('truetype'),
+         url('together-webfont.svg#togetherregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
