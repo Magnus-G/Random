@@ -2,6 +2,10 @@ text {
 	color: blue !important;
 }
 
+style {
+	display: none !important;
+}
+
 title-font {
 	font-family: verdana !important;
 	color: red !important;
