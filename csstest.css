@@ -1,9 +1,14 @@
 h1 {
-	@font-face {font-family: telenor; src: url(https://github.com/Magnus-G/Random/blob/master/telenor-webfont.woff);} color: black; margin: 0; line-height: 1.5; font-family: telenor, helvetica, arial;
+	@font-face {font-family: telenor; src: url(https://github.com/Magnus-G/Random/blob/master/telenor-webfont.woff);} 
+	color: red !important; 
+	margin: 0; 
+	line-height: 1.5; 
+	font-family: telenor, helvetica, arial;
 }
 
 h2 {
-	@font-face {font-family: telenor; src: url(https://github.com/Magnus-G/Random/blob/master/telenor-webfont.woff);} color: black; margin-bottom: 1em; font-size: 27px; font-family: telenor, helvetica, arial; font-weight: 200; line-height: 1.5;
+	@font-face {
+		font-family: telenor; src: url(https://github.com/Magnus-G/Random/blob/master/telenor-webfont.woff);} color: black; margin-bottom: 1em; font-size: 27px; font-family: telenor, helvetica, arial; font-weight: 200; line-height: 1.5;
 }
 
 #hej {
