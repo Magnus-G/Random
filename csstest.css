@@ -6,6 +6,7 @@ h2 {
 	@font-face {font-family: telenor; src: url(https://github.com/Magnus-G/Random/blob/master/telenor-webfont.woff);} color: black; margin-bottom: 1em; font-size: 27px; font-family: telenor, helvetica, arial; font-weight: 200; line-height: 1.5;
 }
 
-body {
+#hej {
 	background-color: red !important;
+	background: red !important;
 }
