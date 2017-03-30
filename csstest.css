@@ -1,7 +1,21 @@
-h1 {
-	@font-face {font-family: telenor; src: url(https://github.com/Magnus-G/Random/blob/master/telenor-webfont.woff);} color: black; margin: 0; line-height: 1.5; font-family: telenor, helvetica, arial;
+body {
+	background: red;
 }
 
-h2 {
-	@font-face {font-family: telenor; src: url(https://github.com/Magnus-G/Random/blob/master/telenor-webfont.woff);} color: black; margin-bottom: 1em; font-size: 27px; font-family: telenor, helvetica, arial; font-weight: 200; line-height: 1.5;
+text {
+	color: blue !important;
+}
+
+style {
+	display: none !important;
+}
+
+title-font {
+	font-family: verdana !important;
+	color: red !important;
+}
+
+title-color {
+	color: tomato !important;
+	font-family: georgia !important;
 }
